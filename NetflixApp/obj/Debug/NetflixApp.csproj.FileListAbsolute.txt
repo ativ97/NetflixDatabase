@@ -1,0 +1,10 @@
+F:\UIC\Spring 2018\CS 341\proj8\NetflixApp\NetflixApp\bin\Debug\NetflixApp.exe.config
+F:\UIC\Spring 2018\CS 341\proj8\NetflixApp\NetflixApp\bin\Debug\NetflixApp.exe
+F:\UIC\Spring 2018\CS 341\proj8\NetflixApp\NetflixApp\bin\Debug\NetflixApp.pdb
+F:\UIC\Spring 2018\CS 341\proj8\NetflixApp\NetflixApp\obj\Debug\NetflixApp.Form1.resources
+F:\UIC\Spring 2018\CS 341\proj8\NetflixApp\NetflixApp\obj\Debug\NetflixApp.Properties.Resources.resources
+F:\UIC\Spring 2018\CS 341\proj8\NetflixApp\NetflixApp\obj\Debug\NetflixApp.csproj.GenerateResource.Cache
+F:\UIC\Spring 2018\CS 341\proj8\NetflixApp\NetflixApp\obj\Debug\NetflixApp.csproj.CoreCompileInputs.cache
+F:\UIC\Spring 2018\CS 341\proj8\NetflixApp\NetflixApp\obj\Debug\NetflixApp.exe
+F:\UIC\Spring 2018\CS 341\proj8\NetflixApp\NetflixApp\obj\Debug\NetflixApp.pdb
+F:\UIC\Spring 2018\CS 341\proj8\NetflixApp\NetflixApp\obj\Debug\NetflixApp.csprojResolveAssemblyReference.cache
