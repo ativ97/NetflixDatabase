@@ -1,9 +1,8 @@
 # NetflixDatabase
 
 	Description:
-	
-	Implementation of an N-Tier Netflix Database application of movies, users and user reviews
-	Includes User Friendly and easy to navigate GUI.
+	This is a N-tier user-friendly GUI application which includes a crowdsourced Database of all the available Netflix movies. 
+	Once a movie is selected, user can leave a review, see other reviews, and see the overall rating of a movie.
 
 **************************************************************************
 	Breakdown:
@@ -12,4 +11,3 @@
 		The "Data Access Tier" interface between business tier and data store — the data access tier does not manage nor store data, it only facilitates access to the data
 		The "Data Store" stores the actual data repository
 
-ativ97
